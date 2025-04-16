@@ -1,0 +1,12 @@
+drawdown and build up
+rw=0.3 ft
+h=100 ft
+phi=0.13
+Bo=1.18
+miu=1.8
+ct=1.5e-5
+pi=4800 psi
+k=12 md
+S=3
+q=1300 stb/d for 150 hrs
+and shut in for 210 hrs
